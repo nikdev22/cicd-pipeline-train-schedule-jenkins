@@ -15,3 +15,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 It's just a demo, to test whether jenkins will build automatically when a change occurs in github.
+
+Just to make sure that jenkins is working
